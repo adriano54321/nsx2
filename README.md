@@ -14,3 +14,4 @@ Seguem alguns comandos do GIT que estudei para controlar o repositório:
 - git add .
 - git commit -m "comentário"
 - git push origin main (depois do primeiro não precisa > origin main)
+- git show (verifica as alterações)
